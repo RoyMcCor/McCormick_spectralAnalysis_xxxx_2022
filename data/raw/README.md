@@ -1,0 +1,1 @@
+Spectral time-series data for Braeburn apples obtained by regularly scanning marked fruit with a hand-held spectrometer. Scans taken at ~ two week intervals from mid July until harvest in October and ~ four week intervals during CA storage.
